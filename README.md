@@ -1,28 +1,76 @@
-# TypeScript & Styled Components Next.js example
+<h1 align='center'><strong>Typeform - Animations clone</strong></h1>
 
-This is a really simple project that show the usage of Next.js with TypeScript and Styled Components.
+## Índice
 
-## Deploy your own
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tecnologias e ferramentas utilizadas](#tecnologias-e-ferramentas-utilizadas)
+- [Iniciando o projeto](#iniciando-o-projeto)
 
-Deploy the example using [Vercel](https://vercel.com):
+<br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-typescript-styled-components)
+![GitHub](https://img.shields.io/github/license/carlosdoria/clone-animation-typeform)
 
-## How to use it?
+<br>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Sobre o Projeto
 
-```bash
-npx create-next-app --example with-typescript-styled-components with-typescript-app
-# or
-yarn create next-app --example with-typescript-styled-components with-typescript-app
+Simples clone das animações do site Typeform, esse projeto teve como objetivo aprender a utilizar a biblioteca 'framer-motion'. <br>
+Projeto desenvolvido com base em um vídeo da playlist Clone UI da [Rocketseat](https://app.rocketseat.com.br/), link do [vídeo](https://www.youtube.com/watch?v=O2xM5H7Ooj4&t=2237s)!
+
+<br>
+
+<!-- ## Deploy
+
+Link do deploy:
+[Deploy]()
+
+<br> -->
+
+## Tecnologias e ferramentas utilizadas
+
+O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
+
+- NextJS;
+- HTML5;
+- CSS3;
+- ES6+;
+- Styled Components;
+- Framer-motion.
+
+<br>
+
+## Iniciando o projeto
+
+No seu terminal, realize o clone deste respositório:
+
+```
+git clone https://github.com/carlosdoria/clone-animation-typeform.git
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Em seguida entre no diretório:
 
-## Notes
+```
+cd clone-animation-typeform
+```
 
-This is an amalgamation of the 2 existing examples:
+Para rodar a aplicação execute o comando:
 
-- [with-typescript](https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
-- [with-styled-components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components)
+```
+yarn dev
+```
+
+Por fim, caso o navegador não abra automaticamente uma aba com a aplicação, acesse o seguinte link:
+
+```
+http://localhost:3000
+```
+
+<!-- ## Como contribuir
+
+ -->
+
+<br>
+
+---
+
+Desenvolvido por [Carlos Dória](https://github.com/carlosdoria)
